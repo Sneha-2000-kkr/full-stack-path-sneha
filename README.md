@@ -20,5 +20,6 @@ Next [VEERY IMPORTANT] DO NOT FORGET to add .jsx and .tsx in ur file type
 ![img.png](images/FiletypeChange.png)
 ![img.png](images/LiveTemplate.png)  
 Now Just type `rfc` and tab in ur .jsx file and the boilerplate code which we added will pop up  
-![img.png](images/rfcExample.png)
+![img.png](images/rfcExample.png)  
+Well, agr ye sab krne ka man nhi h to shanti se switch to VS Code for ur frontend work
 
